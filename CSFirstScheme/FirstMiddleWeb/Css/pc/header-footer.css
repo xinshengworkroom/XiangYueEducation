@@ -15,7 +15,7 @@ header.header nav a.btn-primary{margin-left:36px;line-height: 34px;background: #
 header.header nav a.btn-primary:hover{background: #34a5e4;}
 header.header nav a.btn-default{margin-left:5px;border: 1px solid #c9c9c9;background: #fff;color: #666;}
 header.header nav a.btn-default:hover{border-color: #59cfff;color: #59cfff;background: #fff;}
-header.header .container>a{display:block;width: 300px;}
+header.header .container>a{display:block;width: 500px;}
 footer.footer{width:100%;font-size: 12px;color: #aaa;background: #555;}
 footer.footer ul{margin:60px 0 30px 0;}
 footer.footer ul li.f-tit{margin-bottom:10px;font-size: 14px;color: #fff;}

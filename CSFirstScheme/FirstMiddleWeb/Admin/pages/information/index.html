@@ -21,7 +21,14 @@
                     ts:new Date().getTime()
                 };
                 $.get("../../handler/AdminHandler.ashx", params, function (result) {
-                    alert(result.message);
+                    //alert(result.message);
+                    $("#tb_data tbody").html(null);
+                    $.each(result.date, function (i, item) {
+                       
+                        $("#tb_data tbody").append($("<tr>").append("<td>" + item.InformationId + "</td><td>" + item.CreateBy + "</td><td>" + item.CreateTime + "</td>"));
+                    });
+
+
                 }, 'json');
             });
 
@@ -52,8 +59,33 @@
             </p>
 
             <p>
-                <a id="btn_test" href="#" data-toggle="modal" class="btn btn-primary btn-large">测试</a>
+                <a id="btn_test" href="#" data-toggle="modal" class="btn btn-primary btn-large">查询</a>
             </p>
+
+
+
+            <div>
+                <table id="tb_data" style="width:100%;">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>创建者</th>
+                            <th>创建时间</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                
+
+                    </tbody>
+                </table>
+
+
+            </div>
+
+
+
+
+
         </div>
       
     </form>

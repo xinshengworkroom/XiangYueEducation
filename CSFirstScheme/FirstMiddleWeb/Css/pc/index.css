@@ -10,7 +10,7 @@
 .carousel .item,
 .carousel .carousel-inner{height: 100%;}
 .carousel .carousel-control{top: 50%;-webkit-transform: translateY(-50%);transform: translateY(-50%);opacity: inherit !important;}
-.page-index .item{min-height: 550px;}
+.page-index .item{min-height: 430px;}
 .carousel-inner .item .imgs{
     width: 100%;height: 550px;position: relative;
 }

@@ -5,3 +5,10 @@ D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.Entity
 D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.Entity.pdb
 D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\obj\Debug\CSFirstScheme.CClassLibrary.dll
 D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\obj\Debug\CSFirstScheme.CClassLibrary.pdb
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.CClassLibrary.dll
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.CClassLibrary.pdb
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.Entity.dll
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.Entity.pdb
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\CClassLibrary\obj\Debug\CClassLibrary.csprojResolveAssemblyReference.cache
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\CClassLibrary\obj\Debug\CSFirstScheme.CClassLibrary.dll
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\CClassLibrary\obj\Debug\CSFirstScheme.CClassLibrary.pdb

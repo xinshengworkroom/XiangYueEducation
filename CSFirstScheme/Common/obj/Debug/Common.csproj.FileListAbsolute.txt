@@ -8,3 +8,8 @@ D:\GitHub\CSMiddleWeb\CSFirstScheme\Common\bin\Debug\CSFirstScheme.Common.pdb
 D:\GitHub\CSMiddleWeb\CSFirstScheme\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 D:\GitHub\CSMiddleWeb\CSFirstScheme\Common\obj\Debug\CSFirstScheme.Common.dll
 D:\GitHub\CSMiddleWeb\CSFirstScheme\Common\obj\Debug\CSFirstScheme.Common.pdb
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\Common\bin\Debug\CSFirstScheme.Common.dll
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\Common\bin\Debug\CSFirstScheme.Common.pdb
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\Common\obj\Debug\CSFirstScheme.Common.dll
+E:\长沙市一中网站\XiangYueEducation\CSFirstScheme\Common\obj\Debug\CSFirstScheme.Common.pdb
