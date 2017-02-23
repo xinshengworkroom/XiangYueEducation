@@ -13,7 +13,7 @@ public class AdminHandler : IHttpHandler {
     
     public void ProcessRequest (HttpContext context) {
         context.Response.ContentType = "text/plain";
-        string savePath = context.Server.MapPath("~/App_Data/FirstMiddle.xls");
+  
 
         string action = context.Request["action"];
         if (!string.IsNullOrEmpty(action))
