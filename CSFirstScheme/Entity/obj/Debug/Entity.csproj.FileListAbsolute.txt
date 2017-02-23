@@ -1,0 +1,5 @@
+D:\GitHub\CSMiddleWeb\CSFirstScheme\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\GitHub\CSMiddleWeb\CSFirstScheme\Entity\bin\Debug\CSFirstScheme.Entity.dll
+D:\GitHub\CSMiddleWeb\CSFirstScheme\Entity\bin\Debug\CSFirstScheme.Entity.pdb
+D:\GitHub\CSMiddleWeb\CSFirstScheme\Entity\obj\Debug\CSFirstScheme.Entity.dll
+D:\GitHub\CSMiddleWeb\CSFirstScheme\Entity\obj\Debug\CSFirstScheme.Entity.pdb

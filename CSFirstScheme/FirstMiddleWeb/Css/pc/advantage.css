@@ -1,0 +1,66 @@
+/*PC官网产品优势页面样式*/
+
+/*Section1 */
+.advSection1 .left,.advSection3 .left,.advSection5 .left{
+	padding-right: 60px;
+}
+.advSection1 .left .title,.advSection2 .title,.advSection3 .left .title,.advSection4 .right .title,.advSection5 .left .title{
+	margin: 130px 0 40px;
+	font-size: 42px;
+	color: #333;
+}
+.advSection1 .left .desc,.advSection2 .desc,.advSection3 .left .desc,.advSection4 .right .desc,.advSection5 .left .desc{
+	font-size: 16px;
+	color: #666;
+	line-height: 28px;
+}
+.advSection1 .left .desc{
+	padding-right: 31px;
+}
+.advSection1 .right{
+	margin: 50px 0 80px;
+}
+.advSection1 .right,.advSection5 .right{
+	text-align: center;
+}
+.advSection1 .right img{
+	width: 70%;
+}
+.advSection1,.advSection3,.advSection5{
+	height: 550px;
+}
+/*Section2*/
+.advSection2,.advSection4{
+	width: 100%;
+	height: 550px;
+	background: url(/images/pc/adv_bg1.jpg) no-repeat center center;
+	background-size: cover;
+}
+.advSection2 .right,.advSection4 .right{
+	padding-left: 60px;
+}
+.advSection2{
+	width: 100%;
+	height: 550px;
+	background: url(/images/pc/adv_bg1.jpg) no-repeat center center;
+	background-size: cover;
+}
+/* Section3 */
+.advSection3{background: url(/images/pc/adv_pic3.png) no-repeat center center;}
+.advSection3 .right,.advSection5 .right{
+	line-height: 550px;
+}
+.advSection3 .right img{
+	width: 88%;
+}
+/*Section4*/
+.advSection4 {
+	background: url(/images/pc/adv_bg2.jpg) no-repeat center center;
+}
+.advSection4 .right .title,.advSection4 .right .desc{
+	color: #fff;
+}
+/*Section5*/
+.advSection5 .right img{
+	width: 70.4%;
+}

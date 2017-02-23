@@ -1,0 +1,391 @@
+body,html{
+	font-family: "微软雅黑";
+}
+.pay-content{
+	margin:0 auto;
+	min-width: 1310px;
+	height: auto;
+	background-color: #fff;
+}
+.pay-top{
+	width: 100%;
+	height: 150px;
+	background-image: url(../../images/pay/paybg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.pay-main{
+	width: 1170px;
+	height: auto;
+	background-repeat: no-repeat;
+	padding: 0px 0 60px 0;
+	margin:0 auto;
+}
+.paylist{
+	width: 600px;
+    padding-top: 90px;
+    float: left;
+}
+.pay-right{
+	float: right;
+    width: 565px;
+    height: 900px;
+    background-image: url(../../images/pay/pay-right.png);
+    background-repeat: no-repeat;
+    background-position: 0px 26px;
+    background-size: 100%;
+}
+.paylist h2{
+	font-size: 20px;
+	color: #333;
+	margin-bottom: 25px;
+}
+.paylist h2 span{
+	color: #999;
+	font-size: 16px;
+}
+.paylist li{
+	padding-bottom: 55px;;
+}
+.paylist p,.paylist div.erweimabox{
+	margin-left: 70px;
+	font-size: 14px;
+	color: #333;
+	line-height: 24px;
+}
+.paylist div.erweimabox span.paycodegz{
+	font-size: 14px;
+	color: #23aefb;
+	margin-left: 20px;
+	cursor: pointer;
+}
+.paylist div.erweimabox .paycodegz:hover+div.code-show{
+	display: block;
+}
+.paylist p.paycode{
+	color:#333;
+}
+.paylist p.paycode a{
+	color: #333;
+	border-bottom: 1px solid #999999;
+}
+.paylist p.pay-first{
+	margin-bottom: 10px;
+	color: #666;
+}
+.paylist .paycodeBox{
+	position: relative;
+}
+.paylist .code-show{
+	width: 240px;
+    height: 240px;
+    border: 1px solid #59c4ff;
+    position: absolute;
+    bottom: 115px;
+    left: 240px;
+    background-color: #fff;
+    display: none;
+}
+.paylist .code-arrow{
+	position: absolute;
+    bottom: -9px;
+    left: 118px;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #59c4ff;
+    transform: rotate(45deg);
+    border-top: none;
+    border-left: none;
+    background-color: #fff;
+}
+.paylist .code-div{
+	width: 210px;
+	height: 210px;
+	background-image: url(../../images/pay/erweima.png);
+	background-repeat: no-repeat;
+	margin: 12px auto;
+}
+/*荣誉资质*/
+.honor-content{
+	min-width: 1170px;
+	margin-bottom: 130px;
+}
+.honor-nav{
+	width: 100%;
+	height: 175px;
+	background-image: url(../../images/pay/navbg.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+}
+.honor-nav .honorList{
+	width: 1170px;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0 200px;
+	box-sizing: border-box;
+}
+.honor-nav .honorList li{
+	width: 100px;
+	height: 100px;
+	border:3px solid #fff;
+	display: inline-block;
+	border-radius: 50%;
+	margin: 40px 230px 0 0;
+	padding: 20px 0 0 20px;
+	position: relative;
+	box-sizing: border-box;
+}
+.honor-nav .honorList li.three{
+	margin-right: 0;
+}
+.honor-nav .honorList li .honor-icon{
+	display: block;
+	margin-left: 10px;
+	width: 37px;
+	height: 37px;
+	background-image: url(../../images/pay/honoricon.png);
+	background-repeat: no-repeat;
+}
+.honor-nav .honorList li:hover,.honor-nav .honorList li.active{
+	background:#fff;
+}
+.honor-nav .honorList li.first:hover .honor-icon,.honor-nav .honorList li.first.active .honor-icon{
+	background-position: 0 -47px;
+}
+.honor-nav .honorList li.two .honor-icon{
+	background-position: 0 -94px;
+}
+.honor-nav .honorList li.two:hover .honor-icon,.honor-nav .honorList li.two.active .honor-icon{
+	background-position: 0 -141px;
+}
+.honor-nav .honorList li.three .honor-icon{
+	background-position: 0 -188px;
+}
+.honor-nav .honorList li.three:hover .honor-icon,.honor-nav .honorList li.three.active .honor-icon{
+	background-position: 0 -235px;
+}
+.honor-nav .honorList li:hover p,.honor-nav .honorList li.active p{
+	color: #59C4FF;
+}
+.honor-nav .honorList li:hover em,.honor-nav .honorList li.active em{
+	display: block;
+}
+.honor-nav .honorList li p{
+	color: #fff;
+	font-size: 14px;
+}
+.honor-nav .honorList li em{
+	position: absolute;
+    width: 10px;
+    height: 10px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    background-color: #fff;
+    bottom: -43px;
+    left: 50%;
+    margin-left: -5px;
+    display: none;
+}
+.honor-nav .honorList li .honor-icon{
+	background-position: 0 0;
+}
+
+.honor-wrapper{
+	width: 1170px;
+	margin: 0 auto;
+	padding: 80px 0px 0 150px;
+}
+.honor-wrapper .honor-items{
+	display: none;
+}
+
+.honor-wrapper .honor-items.active{
+	display: -webkit-box;
+	display: -moz-box;
+	display: flex;
+}
+.honor-wrapper .honor-items .honor-left{
+	width: 420px;
+	height: 460px;
+	box-sizing: border-box;
+	position: relative;
+    overflow: hidden;
+    margin-right: 135px;
+    font-size: 0;
+}
+.honor-wrapper .honor-items .honor-left span.prev{
+	position: absolute;
+	left: 0px;
+	text-align: center;
+	top: 50%;
+	width: 40px;
+	height: 40px;
+	margin-top: -50px;
+	cursor: pointer;
+	z-index: 10;
+}
+.honor-wrapper .honor-items .honor-left span.next{
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 50%;
+	width: 40px;
+	height: 40px;
+	margin-top: -50px;
+	cursor: pointer;
+	z-index: 10;
+}
+.honor-wrapper .honor-items .honor-left span.next .left{
+	transform: rotate(135deg);
+}
+.honor-wrapper .honor-items .honor-left span.next .right{
+	transform: rotate(-135deg);
+}
+.honor-wrapper .honor-items .honor-left span .left{
+	width: 2px;
+	position: absolute;
+	left: 10px;
+	transform: rotate(45deg);
+	height: 24px;
+	background-color: #999999;
+}
+.honor-wrapper .honor-items .honor-left span.on:hover em{
+	background-color: #59C4FF;
+}
+.honor-wrapper .honor-items .honor-left span .right{
+	width: 2px;
+	position: absolute;
+	left: 10px;
+    top: 16px;
+	transform: rotate(-45deg);
+	height: 24px;
+	background-color: #999999;
+}
+.honor-wrapper .honor-items .honor-left .honorListitems{
+	width: auto;
+}
+.honor-wrapper .honor-items .honor-left .honorListitems.one{
+	width: 400%;
+}
+.honor-wrapper .honor-items .honor-left .honorListitems.two{
+	width: 1400%;
+}
+.honor-wrapper .honor-items .honor-left .honorListitems.three{
+	width: 300%;
+}
+.honor-wrapper .honor-items .honor-left .honorListitems.three li img{
+	width: 275px;
+}
+
+.honor-wrapper .honor-items .honor-left .honorListitems li{
+	display: inline-block;
+	padding: 0 75px;
+	position: relative;
+	cursor: pointer;
+	min-width: 420px;
+}
+.honor-wrapper .honor-items .honor-left .honorListitems li img{
+	max-width: 270px;
+	max-height: 370px;
+	height: auto;
+	text-align: center;
+}
+.honor-wrapper .honor-items .honor-left .honorListitems li p{
+	font-size: 22px;
+	color: #333;
+	text-align: center;
+	position: absolute;
+	width: 100%;
+    left: 0;
+    bottom: -64px;
+}
+.honor-wrapper .honor-items .honor-right li{
+	font-size: 18px;
+	color: #333;
+	line-height: 46px;
+	cursor: pointer;
+}
+.honor-wrapper .honor-items .honor-right li.on{
+	color: #59c4ff;
+}
+.honor-wrapper .honor-items .honor-right li i{
+	display: inline-block;
+	width: 9px;
+	height: 9px;
+	border-radius: 50%;
+	background-color: #999;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+.honor-wrapper .honor-items .honor-right li.on i{
+	background-color: #59c4ff;
+}
+
+
+.imgPopup{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	z-index: 11;
+	background: rgba(0, 0, 0, 0.5);
+}
+.imgPopup .Popupparent{
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.imgPopup .left-btn,.imgPopup .right-btn{
+	display: inline-block;
+    width: 46px;
+    height: 46px;
+    position: absolute;
+    top: 50%;
+    margin-top: -23px;
+    right: 10px;
+    cursor: pointer;
+    background: url(../../images/pay/imgPopup.png) no-repeat;
+	background-position: 0 0;
+}
+.imgPopup .left-btn{
+	left: 10px;
+	background-position: 0 -46px;
+}
+.imgPopup .honorListitems{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	text-align:center;
+	transform: translate(-50%, -50%);
+}
+.imgPopup .honorListitems li{
+	display: none;
+}
+.imgPopup .honorListitems li.on{
+	display: block;
+	-moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+    opacity: 1;
+}
+.imgPopup .honorListitems img{
+	width: auto;
+}
+.imgPopup .popupclose{
+	display: inline-block;
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    background: url(../../images/pay/imgPopupclose.png) no-repeat;
+	background-position: 0 0;
+}
+.imgPopup .popupclose:hover{
+	background-position: 0 -36px;
+}

@@ -1,0 +1,7 @@
+D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\obj\Debug\CClassLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.CClassLibrary.dll
+D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.CClassLibrary.pdb
+D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.Entity.dll
+D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\bin\Debug\CSFirstScheme.Entity.pdb
+D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\obj\Debug\CSFirstScheme.CClassLibrary.dll
+D:\GitHub\CSMiddleWeb\CSFirstScheme\CClassLibrary\obj\Debug\CSFirstScheme.CClassLibrary.pdb

@@ -1,0 +1,18 @@
+.ownself-tit{height:150px;padding: 40px 0;background: url(/images/pc/about-us-img02.jpg)no-repeat top center;font-size: 16px;color: #fff;}
+.ownself-tit h2{margin-bottom:15px;font-size: 38px;line-height: 40px;}
+.ownself-tit p{line-height: 18px;}
+.ownself-con{height:790px;background: url(/images/pc/about-us-img01.jpg)no-repeat bottom center;}
+.ownself-con article{width: 670px;margin-top: 78px;}
+.ownself-con article h2.tit{margin-bottom:24px;font-size: 24px;line-height: 38px;}
+.ownself-con article h2.tit>span{font-size: 36px;}
+.ownself-con article p{margin-bottom:24px;line-height: 24px;}
+.contact-con{padding: 50px 0 100px;}
+.contact-style ul{margin-bottom: 30px;}
+.contact-style ul:last-child{margin-bottom: 0;}
+.contact-style li{padding-left: 40px;line-height: 22px;}
+.contact-style li.tit{padding-left:0;margin-bottom:7px;font-size: 20px;}
+.contact-style li span,
+.contact-style li a{color: #59c4ff;}
+.contact-style li a:hover{text-decoration: underline !important;}
+.contact-con .map{width: 600px;height: 500px;padding:10px;border: 1px solid #dcdcdc;}
+#l-map{height: 100%;width: 100%;}
